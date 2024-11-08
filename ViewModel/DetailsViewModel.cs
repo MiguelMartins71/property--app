@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PropertyAPP.ViewModel
 {
-    internal class DetailsViewModel
+    public class DetailsViewModel : BaseViewModel
     {
     }
 }
